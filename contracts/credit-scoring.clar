@@ -1,4 +1,4 @@
-;; c
+;; credit-scoring contract
 
 (define-map credit-scores
   { user: principal }

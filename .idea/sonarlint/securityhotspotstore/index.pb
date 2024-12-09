@@ -9,3 +9,7 @@ N
 contracts/loan-management.clar,5/c/5c3c50b913b89f4599785a003d3a6459304fddfe
 M
 tests/loan-management.test.ts,6/b/6b1bcc5eb00947f78a30c490e24b085ca5e91c9b
+T
+$contracts/collateral-management.clar,e/b/ebd25a6b95c263439674497e11db99ec1b77b36b
+S
+#tests/collateral-management.test.ts,e/7/e7242733c2bddf90792e343fad3af8c79d41f9bb
